@@ -1,0 +1,50 @@
+
+body{
+    
+}
+.titulo-principal{
+    padding-left: 30px;
+}
+#barba{
+    width: 100;             /*Lo utilizamos para que ocupe el 100% de el largo de la pag*/
+}
+.principal{
+    background: #cccccc; /* Definimos el color plomo  */
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+p{
+    text-align: center;   /* Centramos el texto en la pag web*/      
+    background: #cccccc; /* */
+}
+
+
+em strong{
+    color: red; /* Definimos el color rojo para la etiqueta em strong*/
+}
+
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+
+.items{             /*Con el punto y el nombre declaro la clase y coloco las caracteristicas que lleva el texto*/
+    font: italic;
+}
+ul{
+    display: inline-block;     /*Solo ocupe el espacio de su contenido y su alrededor puede usar sin restricciones*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+}
